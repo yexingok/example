@@ -4,4 +4,4 @@ this is needed by feature 2 and 3
 line2
 ilne1
 add more lines
-test commit verify
+test commit verify and update the file again.
